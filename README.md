@@ -3,6 +3,8 @@
   <img src="https://user-images.githubusercontent.com/90327529/233446522-6258a5fd-15d5-4b3e-9caa-c6bc273e5e77.gif" />
 </p>
 
+
+
 # <span style="color:blue"> Oh, hello, curious one! </span>. 🪶🪶
 I'm Alan. I'm currently studying Electrical and Electronics Engineering at the very Facultad de Ingeniería.
 
@@ -20,4 +22,15 @@ If we ever get to cross paths I'll be glad to talk about this topics
 ## Other Interests
 - Ghibli studio fan <span style="color:grey">(The wind rises is the best one. Come at me) </span>
 - Science fiction (books and movies)
-- 
+
+## Anime
+
+<p>
+  <img src="https://user-images.githubusercontent.com/90327529/233448618-c0ff0e3e-6a49-4a6f-8df1-783b980f766d.gif" align = "right" width="500" height="282"/>
+</p>
+
+
+- Samurai Champloo
+- Neon Genesis Evangelion
+- Mononoke (Toei's not Ghibli's)
+- Cowboy Bebop
