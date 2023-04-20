@@ -2,7 +2,7 @@
 <p align = "center">
   <img src="https://user-images.githubusercontent.com/90327529/233449190-822faa4f-a6f8-4c18-866a-74f60929149d.gif" />
 </p>
-# <span style="color:blue">Oh, hello, curious one!</span>. 🪶🪶
+# <span style="color:blue">Oh, hello, curious one! </span> 🪶🪶
 I'm Alan. I'm currently studying Electrical and Electronics Engineering at the very Facultad de Ingeniería.
 
 ## Academic Interest
