@@ -7,7 +7,7 @@
 I'm Alan. I'm currently studying Electrical and Electronics Engineering :electron: at the very Facultad de Ingeniería.
 
 ## Academic Interest 
-If we ever get to cross paths I'll be glad to talk about this topics
+I personally identify myself as the following:
 - Signals and systems analysis enthusiast 📡
 - Numerical methods enjoyer 🖥️
 - Differential equations lover 🫀
